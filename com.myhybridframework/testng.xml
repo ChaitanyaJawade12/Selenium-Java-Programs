@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="cross browser testing" parallel="classes"
+	thread-count="10">
+
+	<test name="Test in edge">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.ValidLoginTC001"></class>
+		</classes>
+	</test>
+
+	<test name="Test in edge1">
+		<parameter name="browser" value="edge"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.AddAccount_TC006"></class>
+		</classes>
+	</test>
+
+	<test name="Test in chrome">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.ValidLoginTC001"></class>
+		</classes>
+	</test>
+
+	<test name="Test in chrome1">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.AddAccount_TC006"></class>
+		</classes>
+	</test>
+	
+	<test name="Test in firefox">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.ValidLoginTC001"></class>
+		</classes>
+	</test>
+
+	<test name="Test in firefox1">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.myhybridframework.testCases.AddAccount_TC006"></class>
+		</classes>
+	</test>
+
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

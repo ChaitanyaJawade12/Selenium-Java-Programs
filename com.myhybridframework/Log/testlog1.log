@@ -1,0 +1,160 @@
+2023-03-28 10:28:09,818 [main] INFO ebanking - User is able to enter UserID
+2023-03-28 10:28:09,950 [main] INFO ebanking - User is able to enter Password
+2023-03-28 10:28:11,974 [main] INFO ebanking - User is able to login
+2023-03-28 10:28:15,362 [main] INFO ebanking - User is able to enter Account No 
+2023-03-28 10:28:15,479 [main] INFO ebanking - User is able to enter Amount 
+2023-03-28 10:28:15,619 [main] INFO ebanking - User is able to enter Description 
+2023-03-28 10:28:16,417 [main] INFO ebanking - User is able to submit
+2023-03-31 07:21:42,943 [main] INFO ebanking - User is able to enter username
+2023-03-31 07:21:43,027 [main] INFO ebanking - User is able to enter password
+2023-03-31 07:21:43,591 [main] INFO ebanking - User is able to login
+2023-03-31 07:23:39,784 [main] INFO ebanking - User is able to enter username
+2023-03-31 07:23:39,884 [main] INFO ebanking - User is able to enter password
+2023-03-31 07:23:43,636 [main] INFO ebanking - User is able to login
+2023-03-31 08:26:08,863 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter username
+2023-03-31 08:26:09,004 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:26:09,316 [TestNG-test=Test in edge-2] INFO ebanking - User is able to login
+2023-03-31 08:26:27,693 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter username
+2023-03-31 08:26:27,915 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:28:59,863 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter username
+2023-03-31 08:28:59,990 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:29:50,806 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter username
+2023-03-31 08:29:50,953 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:38:30,131 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:38:30,220 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:38:32,053 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 08:41:30,502 [TestNG-test=Test in edge-2] INFO ebanking - This is invalidusername
+2023-03-31 08:41:30,517 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:41:30,576 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:41:30,593 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:41:31,593 [TestNG-test=Test in edge-2] INFO ebanking - User is able to view alert message
+2023-03-31 08:48:56,328 [TestNG-test=Test in edge-2] INFO ebanking - This is invalidusername
+2023-03-31 08:48:56,344 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:48:56,399 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:48:56,415 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:48:56,881 [TestNG-test=Test in edge-2] INFO ebanking - User is able to view alert message
+2023-03-31 08:49:48,973 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:49:49,019 [TestNG-test=Test in edge-2] INFO ebanking - This is invalidusername
+2023-03-31 08:49:49,079 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:49:49,098 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:49:49,521 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 08:54:53,623 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:54:53,640 [TestNG-test=Test in edge-2] INFO ebanking - This is invalidusername
+2023-03-31 08:54:53,689 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:54:53,707 [TestNG-test=Test in edge-2] INFO ebanking - User is able to enter password
+2023-03-31 08:54:54,106 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 08:59:42,420 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 08:59:42,495 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 08:59:43,262 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:03:33,477 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:03:33,543 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:03:34,010 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:08:26,870 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:08:26,938 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:08:27,392 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:09:23,655 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:09:23,722 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:09:24,160 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:11:33,868 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:11:33,939 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:11:34,371 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:12:51,005 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:12:51,072 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:13:25,011 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:13:25,106 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:14:13,323 [main] INFO ebanking - User is able to enter username
+2023-03-31 09:14:13,379 [main] INFO ebanking - User is able to enter password
+2023-03-31 09:14:14,631 [main] INFO ebanking - User is able to login
+2023-03-31 09:52:39,239 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:52:39,361 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:53:50,004 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:53:50,097 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:53:50,959 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:54:44,901 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:54:44,997 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:54:46,122 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:55:28,823 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:55:28,927 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:55:29,469 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:56:02,277 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:56:02,372 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:56:03,811 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:56:48,424 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:56:48,532 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:56:48,997 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:57:14,167 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:57:14,271 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:57:35,123 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:57:35,345 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:57:35,909 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:58:26,756 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:58:26,851 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 09:58:28,682 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 09:58:57,668 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 09:58:57,831 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:05:58,192 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:05:58,321 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:05:59,439 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 10:06:53,282 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:06:53,445 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:06:53,986 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 10:08:16,603 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:08:16,711 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:08:17,934 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 10:08:44,185 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:08:44,298 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:31:45,381 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:31:45,512 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:32:23,832 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 10:32:23,976 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 10:32:25,942 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 10:32:59,866 [TestNG-test=Test in edge-1] INFO ebanking - User is ab;le to enter id
+2023-03-31 10:32:59,997 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter initialdeposit
+2023-03-31 10:33:01,854 [TestNG-test=Test in edge-1] INFO ebanking - User is able to submit
+2023-03-31 13:57:25,477 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 13:57:25,593 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 13:57:27,321 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 13:57:43,894 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-03-31 13:57:44,010 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-03-31 13:57:47,140 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-03-31 13:58:18,336 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 13:58:18,430 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 13:58:20,279 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 17:52:34,441 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 17:52:34,526 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 17:52:35,930 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 17:52:52,988 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-03-31 17:52:53,097 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-03-31 17:52:56,037 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-03-31 17:53:47,269 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 17:53:47,370 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 17:54:36,476 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 17:54:36,558 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 17:54:37,911 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 17:54:55,221 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-03-31 17:54:55,329 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-03-31 17:54:57,487 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-03-31 17:59:26,611 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-03-31 17:59:26,700 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-03-31 17:59:28,202 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-03-31 17:59:47,373 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-03-31 17:59:47,504 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-03-31 17:59:49,642 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-04-05 07:37:59,326 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-04-05 07:37:59,410 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-04-05 07:38:00,505 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-04-05 07:38:19,425 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-04-05 07:38:19,531 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-04-05 07:38:22,550 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-04-05 07:46:32,217 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter username
+2023-04-05 07:46:32,338 [TestNG-test=Test in edge-1] INFO ebanking - User is able to enter password
+2023-04-05 07:46:33,771 [TestNG-test=Test in edge-1] INFO ebanking - User is able to login
+2023-04-05 07:46:51,692 [TestNG-test=Test in edge1-1] INFO ebanking - User is ab;le to enter id
+2023-04-05 07:46:51,798 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to enter initialdeposit
+2023-04-05 07:46:54,682 [TestNG-test=Test in edge1-1] INFO ebanking - User is able to submit
+2023-04-05 08:28:09,363 [main] INFO ebanking - User is ab;le to enter id
+2023-04-05 08:28:09,473 [main] INFO ebanking - User is able to enter initialdeposit
+2023-04-05 08:28:11,510 [main] INFO ebanking - User is able to submit
+2023-04-17 07:52:21,879 [TestNG-test=Test in firefox-1] INFO ebanking - User is able to enter username
+2023-04-17 07:52:21,919 [TestNG-test=Test in firefox-1] INFO ebanking - User is able to enter password
+2023-04-17 07:52:23,927 [TestNG-test=Test in firefox-1] INFO ebanking - User is able to login
